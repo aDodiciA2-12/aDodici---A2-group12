@@ -1,1 +1,2 @@
-# aDodici---A2-group12
+# aDodici
+Check project section for group tasks.
